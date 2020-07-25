@@ -19,5 +19,5 @@ runtime工具， 封装了部分runtime功能
 
     修改对象的类
     
-    
+支持cocoapods : pod 'QTRuntimeHelper'
     
